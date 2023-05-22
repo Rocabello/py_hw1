@@ -29,17 +29,3 @@ else:
         print(f'Билет можно есть -> {first} = {second}')
     else:
         print("Не сегодня :(")
-
-
-
-
-
-# num = 2019
-# print("The original number is " + str(num))
-# res = [int(x) for x in str(num)]
-# print("The list from number is " + str(res))
-
-
-
-
-# print(f'list[{0},{1},{2}]')
